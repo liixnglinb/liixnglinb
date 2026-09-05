@@ -48,7 +48,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=liixnglinb&theme=github-dark&hide_border=true&date_format=%5BY%20%5Dn%5B%2C%20%5Dj)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=liixnglinb&theme=github-dark&hide_border=true&date_format=%5BY%20%5Dn%5B%2C%20%5Dj)
 
 </div>
 
