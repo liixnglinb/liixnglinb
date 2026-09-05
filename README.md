@@ -11,7 +11,7 @@
 <br>
 
 [![Voyra 个人网站](https://img.shields.io/badge/Voyra-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-5898FF?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/liixnglinb/Voyra)
-[![Email 联系我](https://img.shields.io/badge/Email-%E8%81%94%E7%B3%BB%E6%88%91-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@example.com)
+[![Email 联系我](https://img.shields.io/badge/Email-%E8%81%94%E7%B3%BB%E6%88%91-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lixingli1024@qq.com)
 
 [![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fliixnglinb&query=%24.public_repos&label=Public%20Repos&style=plastic&color=24292F&logo=github)](https://github.com/liixnglinb?tab=repositories)
 [![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fliixnglinb&query=%24.followers&label=Followers&style=plastic&color=2DA44E&logo=github)](https://github.com/liixnglinb?tab=followers)
