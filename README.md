@@ -16,7 +16,7 @@
   <img alt="total stars" title="累计 Star" src="https://custom-icon-badges.demolab.com/github/stars/liixnglinb?color=55960c&labelColor=0d1117&style=for-the-badge&logo=star&label=Star&logoColor=white" />
 </a>
 <a href="https://github.com/liixnglinb?tab=repositories">
-  <img alt="repos" title="公开仓库" src="https://custom-icon-badges.demolab.com/github/repos/liixnglinb?color=8a2be2&labelColor=0d1117&style=for-the-badge&logo=repo&label=Repos&logoColor=white" />
+  <img alt="repos" title="公开仓库" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fliixnglinb&query=%24.public_repos&style=for-the-badge&label=Repos&color=8a2be2&labelColor=0d1117&logo=repo&logoColor=white" />
 </a>
 <a href="mailto:lixingli1024@qq.com">
   <img alt="email" title="邮件联系我" src="https://custom-icon-badges.demolab.com/badge/Email-%E8%81%94%E7%B3%BB%E6%88%91-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
