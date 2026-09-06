@@ -55,68 +55,46 @@
 <!-- ═══════════ GitHub 数据（深色/浅色自适应） ═══════════ -->
 ## 📊 GitHub 数据 / GitHub Stats
 
-<!-- 统计卡 + 语言环形图：双列并排，picture 切换深浅色 -->
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=liixnglinb&show_icons=true&hide_border=true&bg_color=0d1117&title_color=5898ff&icon_color=8250df&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-        <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=liixnglinb&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0969da&icon_color=8250df&text_color=24292f&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-      </picture>
-    </td>
-    <td width="50%" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=liixnglinb&layout=donut&hide_border=true&bg_color=0d1117&title_color=5898ff&text_color=c9d1d9&langs_count=8" />
-        <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=liixnglinb&layout=donut&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=24292f&langs_count=8" alt="Top Languages" />
-      </picture>
-    </td>
-  </tr>
-</table>
-
 <!-- 连续贡献天数 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=liixnglinb&hide_border=true&background=0D1117&ring=5898FF&fire=F0883E&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=5898FF&sideLabels=8B949E&dates=C9D1D9&date_format=%5BY%20%5Dn%5B%2C%20%5Dj" />
-  <img width="100%" src="https://streak-stats.demolab.com?user=liixnglinb&hide_border=true&background=FFFFFF&ring=0969DA&fire=E16F24&currStreakNum=24292F&sideNums=57606A&currStreakLabel=0969DA&sideLabels=57606A&dates=57606A&date_format=%5BY%20%5Dn%5B%2C%20%5Dj" alt="GitHub Streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=liixnglinb&hide_border=true&background=0D1117&ring=5898FF&fire=F0883E&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=5898FF&sideLabels=8B949E&dates=C9D1D9" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=liixnglinb&hide_border=true&background=FFFFFF&ring=0969DA&fire=E16F24&currStreakNum=24292F&sideNums=57606A&currStreakLabel=0969DA&sideLabels=57606A&dates=57606A" alt="GitHub Streak" />
 </picture>
 
-<!-- ═══════════ 精选项目 · pin 卡片网格 ═══════════ -->
+<!-- ═══════════ 精选项目 · 徽章卡片网格 ═══════════ -->
 ## 📌 精选项目 / Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/liixnglinb/Voyra">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=liixnglinb&repo=Voyra&hide_border=true&bg_color=0d1117&title_color=5898ff&icon_color=8250df&text_color=c9d1d9&show_icons=true" />
-          <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=liixnglinb&repo=Voyra&hide_border=true&bg_color=ffffff&title_color=0969da&icon_color=8250df&text_color=24292f&show_icons=true" alt="Voyra" />
-        </picture>
-      </a>
+      <a href="https://github.com/liixnglinb/Voyra"><img alt="Voyra" src="https://custom-icon-badges.demolab.com/badge/Voyra-5898ff?style=for-the-badge&labelColor=0d1117&logo=repo&logoColor=white" /></a><br><br>
+      🌐 个人网站 · 作品集与数字名片<br>
+      <sub>My portfolio &amp; digital business card</sub><br><br>
+      <img alt="language" src="https://custom-icon-badges.demolab.com/github/languages/top/liixnglinb/Voyra?style=flat-square&logo=github&labelColor=0d1117&color=6da55f" />
+      <img alt="last commit" src="https://custom-icon-badges.demolab.com/github/last-commit/liixnglinb/Voyra?style=flat-square&logo=git&labelColor=0d1117&color=5898ff" />
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/liixnglinb/superstar-checkin">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=liixnglinb&repo=superstar-checkin&hide_border=true&bg_color=0d1117&title_color=5898ff&icon_color=8250df&text_color=c9d1d9&show_icons=true" />
-          <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=liixnglinb&repo=superstar-checkin&hide_border=true&bg_color=ffffff&title_color=0969da&icon_color=8250df&text_color=24292f&show_icons=true" alt="superstar-checkin" />
-        </picture>
-      </a>
+      <a href="https://github.com/liixnglinb/superstar-checkin"><img alt="superstar-checkin" src="https://custom-icon-badges.demolab.com/badge/superstar--checkin-2da44e?style=for-the-badge&labelColor=0d1117&logo=repo&logoColor=white" /></a><br><br>
+      🤖 学习通自动签到软件，定时任务省时省力<br>
+      <sub>Auto check-in tool for Chaoxing with scheduled tasks</sub><br><br>
+      <img alt="language" src="https://custom-icon-badges.demolab.com/github/languages/top/liixnglinb/superstar-checkin?style=flat-square&logo=github&labelColor=0d1117&color=6da55f" />
+      <img alt="last commit" src="https://custom-icon-badges.demolab.com/github/last-commit/liixnglinb/superstar-checkin?style=flat-square&logo=git&labelColor=0d1117&color=5898ff" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/liixnglinb/disk-cleanup-assistant">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=liixnglinb&repo=disk-cleanup-assistant&hide_border=true&bg_color=0d1117&title_color=5898ff&icon_color=8250df&text_color=c9d1d9&show_icons=true" />
-          <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=liixnglinb&repo=disk-cleanup-assistant&hide_border=true&bg_color=ffffff&title_color=0969da&icon_color=8250df&text_color=24292f&show_icons=true" alt="disk-cleanup-assistant" />
-        </picture>
-      </a>
+      <a href="https://github.com/liixnglinb/disk-cleanup-assistant"><img alt="disk-cleanup-assistant" src="https://custom-icon-badges.demolab.com/badge/disk--cleanup--assistant-8250df?style=for-the-badge&labelColor=0d1117&logo=repo&logoColor=white" /></a><br><br>
+      🧹 Windows 磁盘清理助手（Electron + React + FastAPI）<br>
+      <sub>Smart categorization &amp; safe recycle-bin cleanup</sub><br><br>
+      <img alt="language" src="https://custom-icon-badges.demolab.com/github/languages/top/liixnglinb/disk-cleanup-assistant?style=flat-square&logo=github&labelColor=0d1117&color=6da55f" />
+      <img alt="last commit" src="https://custom-icon-badges.demolab.com/github/last-commit/liixnglinb/disk-cleanup-assistant?style=flat-square&logo=git&labelColor=0d1117&color=5898ff" />
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/liixnglinb/mathmodel-skill">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=liixnglinb&repo=mathmodel-skill&hide_border=true&bg_color=0d1117&title_color=5898ff&icon_color=8250df&text_color=c9d1d9&show_icons=true" />
-          <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=liixnglinb&repo=mathmodel-skill&hide_border=true&bg_color=ffffff&title_color=0969da&icon_color=8250df&text_color=24292f&show_icons=true" alt="mathmodel-skill" />
-        </picture>
-      </a>
+      <a href="https://github.com/liixnglinb/mathmodel-skill"><img alt="mathmodel-skill" src="https://custom-icon-badges.demolab.com/badge/mathmodel--skill-f4a340?style=for-the-badge&labelColor=0d1117&logo=repo&logoColor=white" /></a><br><br>
+      🧮 国赛 (CUMCM) 数学建模十阶段工作流 Skill<br>
+      <sub>Ten-stage CUMCM workflow: modeling → code → paper</sub><br><br>
+      <img alt="language" src="https://custom-icon-badges.demolab.com/github/languages/top/liixnglinb/mathmodel-skill?style=flat-square&logo=github&labelColor=0d1117&color=6da55f" />
+      <img alt="last commit" src="https://custom-icon-badges.demolab.com/github/last-commit/liixnglinb/mathmodel-skill?style=flat-square&logo=git&labelColor=0d1117&color=5898ff" />
     </td>
   </tr>
 </table>
