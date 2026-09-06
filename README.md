@@ -36,12 +36,32 @@
 - 🧮 维护 [**mathmodel-skill**](https://github.com/liixnglinb/mathmodel-skill) —— 国赛 (CUMCM) 数学建模十阶段工作流 Skill
 - 💡 坚信：**好的工具，能让人节省时间做更有意义的事**
 
+
+<!-- 关键词彩色徽章 -->
+<p align="center">
+  <img alt="badge" src="https://custom-icon-badges.demolab.com/badge/%F0%9F%A7%AE-%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E4%BA%BA-5898ff?style=for-the-badge&labelColor=0d1117" />
+  <img alt="badge" src="https://custom-icon-badges.demolab.com/badge/%F0%9F%92%BB-%E5%85%A8%E6%A0%88%E5%AD%A6%E4%B9%A0%E4%B8%AD-2da44e?style=for-the-badge&labelColor=0d1117" />
+  <img alt="badge" src="https://custom-icon-badges.demolab.com/badge/%F0%9F%90%8D-Python%20%E9%87%8D%E5%BA%A6%E4%BD%BF%E7%94%A8-3776ab?style=for-the-badge&labelColor=0d1117" />
+  <img alt="badge" src="https://custom-icon-badges.demolab.com/badge/%F0%9F%8C%99-%E5%A4%9C%E9%97%B4%E5%BC%80%E5%8F%91%E8%80%85-6e40c9?style=for-the-badge&labelColor=0d1117" />
+  <img alt="badge" src="https://custom-icon-badges.demolab.com/badge/%E2%98%95-%E5%92%96%E5%95%A1%E9%A9%B1%E5%8A%A8%E5%BC%80%E5%8F%91-d29922?style=for-the-badge&labelColor=0d1117" />
+</p>
+
 <!-- 学习进度条（纯字符，零依赖） -->
 ```text
 🧮 数学建模    ███████████████░░░░░   75%
 🐍 Python      █████████████░░░░░░░   65%
 🟦 TypeScript  ██████████░░░░░░░░░░   50%
 ```
+
+<!-- ═══════════ 成长足迹 · 真实时间线 ═══════════ -->
+## 🗺️ 成长足迹 / My Journey
+
+| 时间 | 里程碑 |
+| --- | --- |
+| **2026.06** | 🌱 踏上 GitHub，开始记录学习与创作 |
+| **2026.07** | 🤖 开源 [superstar-checkin](https://github.com/liixnglinb/superstar-checkin)，解放学生党双手 |
+| **2026.08** | 🌐 上线 [Voyra](https://github.com/liixnglinb/Voyra) 个人网站 · 🧮 发布 [mathmodel-skill](https://github.com/liixnglinb/mathmodel-skill) 十阶段建模工作流 |
+| **2026.09** | 🧹 发布 [disk-cleanup-assistant](https://github.com/liixnglinb/disk-cleanup-assistant)，持续折腾新东西 |
 
 <!-- ═══════════ 技术栈 · skillicons ═══════════ -->
 ## 🧰 技术栈 / Tech Stack
@@ -55,6 +75,29 @@
 <!-- ═══════════ GitHub 数据（深色/浅色自适应） ═══════════ -->
 ## 📊 GitHub 数据 / GitHub Stats
 
+<!-- Profile Summary 三联卡（试渲染） -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liixnglinb&theme=github_dark" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liixnglinb&theme=default" alt="Profile Details" />
+</picture>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liixnglinb&theme=github_dark" />
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liixnglinb&theme=default" alt="Repos per Language" />
+      </picture>
+    </td>
+    <td width="50%" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=liixnglinb&theme=github_dark" />
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=liixnglinb&theme=default" alt="Productive Time" />
+      </picture>
+    </td>
+  </tr>
+</table>
+
 <!-- 连续贡献天数 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=liixnglinb&hide_border=true&background=0D1117&ring=5898FF&fire=F0883E&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=5898FF&sideLabels=8B949E&dates=C9D1D9" />
@@ -67,34 +110,38 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/liixnglinb/Voyra"><img alt="Voyra" src="https://custom-icon-badges.demolab.com/badge/Voyra-5898ff?style=for-the-badge&labelColor=0d1117&logo=repo&logoColor=white" /></a><br><br>
-      🌐 个人网站 · 作品集与数字名片<br>
-      <sub>My portfolio &amp; digital business card</sub><br><br>
-      <img alt="language" src="https://custom-icon-badges.demolab.com/github/languages/top/liixnglinb/Voyra?style=flat-square&logo=github&labelColor=0d1117&color=6da55f" />
-      <img alt="last commit" src="https://custom-icon-badges.demolab.com/github/last-commit/liixnglinb/Voyra?style=flat-square&logo=git&labelColor=0d1117&color=5898ff" />
+      <a href="https://github.com/liixnglinb/Voyra">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/liixnglinb/Voyra/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" />
+          <img width="100%" src="https://socialify.git.ci/liixnglinb/Voyra/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Light" alt="Voyra" />
+        </picture>
+      </a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/liixnglinb/superstar-checkin"><img alt="superstar-checkin" src="https://custom-icon-badges.demolab.com/badge/superstar--checkin-2da44e?style=for-the-badge&labelColor=0d1117&logo=repo&logoColor=white" /></a><br><br>
-      🤖 学习通自动签到软件，定时任务省时省力<br>
-      <sub>Auto check-in tool for Chaoxing with scheduled tasks</sub><br><br>
-      <img alt="language" src="https://custom-icon-badges.demolab.com/github/languages/top/liixnglinb/superstar-checkin?style=flat-square&logo=github&labelColor=0d1117&color=6da55f" />
-      <img alt="last commit" src="https://custom-icon-badges.demolab.com/github/last-commit/liixnglinb/superstar-checkin?style=flat-square&logo=git&labelColor=0d1117&color=5898ff" />
+      <a href="https://github.com/liixnglinb/superstar-checkin">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/liixnglinb/superstar-checkin/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" />
+          <img width="100%" src="https://socialify.git.ci/liixnglinb/superstar-checkin/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Light" alt="superstar-checkin" />
+        </picture>
+      </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/liixnglinb/disk-cleanup-assistant"><img alt="disk-cleanup-assistant" src="https://custom-icon-badges.demolab.com/badge/disk--cleanup--assistant-8250df?style=for-the-badge&labelColor=0d1117&logo=repo&logoColor=white" /></a><br><br>
-      🧹 Windows 磁盘清理助手（Electron + React + FastAPI）<br>
-      <sub>Smart categorization &amp; safe recycle-bin cleanup</sub><br><br>
-      <img alt="language" src="https://custom-icon-badges.demolab.com/github/languages/top/liixnglinb/disk-cleanup-assistant?style=flat-square&logo=github&labelColor=0d1117&color=6da55f" />
-      <img alt="last commit" src="https://custom-icon-badges.demolab.com/github/last-commit/liixnglinb/disk-cleanup-assistant?style=flat-square&logo=git&labelColor=0d1117&color=5898ff" />
+      <a href="https://github.com/liixnglinb/disk-cleanup-assistant">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/liixnglinb/disk-cleanup-assistant/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" />
+          <img width="100%" src="https://socialify.git.ci/liixnglinb/disk-cleanup-assistant/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Light" alt="disk-cleanup-assistant" />
+        </picture>
+      </a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/liixnglinb/mathmodel-skill"><img alt="mathmodel-skill" src="https://custom-icon-badges.demolab.com/badge/mathmodel--skill-f4a340?style=for-the-badge&labelColor=0d1117&logo=repo&logoColor=white" /></a><br><br>
-      🧮 国赛 (CUMCM) 数学建模十阶段工作流 Skill<br>
-      <sub>Ten-stage CUMCM workflow: modeling → code → paper</sub><br><br>
-      <img alt="language" src="https://custom-icon-badges.demolab.com/github/languages/top/liixnglinb/mathmodel-skill?style=flat-square&logo=github&labelColor=0d1117&color=6da55f" />
-      <img alt="last commit" src="https://custom-icon-badges.demolab.com/github/last-commit/liixnglinb/mathmodel-skill?style=flat-square&logo=git&labelColor=0d1117&color=5898ff" />
+      <a href="https://github.com/liixnglinb/mathmodel-skill">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/liixnglinb/mathmodel-skill/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" />
+          <img width="100%" src="https://socialify.git.ci/liixnglinb/mathmodel-skill/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Light" alt="mathmodel-skill" />
+        </picture>
+      </a>
     </td>
   </tr>
 </table>
