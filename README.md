@@ -60,14 +60,14 @@
   <tr>
     <td width="50%" valign="top">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=liixnglinb&show_icons=true&hide_border=true&bg_color=0d1117&title_color=5898ff&icon_color=8250df&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=liixnglinb&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0969da&icon_color=8250df&text_color=24292f&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=liixnglinb&show_icons=true&hide_border=true&bg_color=0d1117&title_color=5898ff&icon_color=8250df&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+        <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=liixnglinb&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0969da&icon_color=8250df&text_color=24292f&include_all_commits=true&count_private=true" alt="GitHub Stats" />
       </picture>
     </td>
     <td width="50%" valign="top">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=liixnglinb&layout=donut&hide_border=true&bg_color=0d1117&title_color=5898ff&text_color=c9d1d9&langs_count=8" />
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liixnglinb&layout=donut&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=24292f&langs_count=8" alt="Top Languages" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=liixnglinb&layout=donut&hide_border=true&bg_color=0d1117&title_color=5898ff&text_color=c9d1d9&langs_count=8" />
+        <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=liixnglinb&layout=donut&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=24292f&langs_count=8" alt="Top Languages" />
       </picture>
     </td>
   </tr>
@@ -79,18 +79,6 @@
   <img width="100%" src="https://streak-stats.demolab.com?user=liixnglinb&hide_border=true&background=FFFFFF&ring=0969DA&fire=E16F24&currStreakNum=24292F&sideNums=57606A&currStreakLabel=0969DA&sideLabels=57606A&dates=57606A&date_format=%5BY%20%5Dn%5B%2C%20%5Dj" alt="GitHub Streak" />
 </picture>
 
-<!-- 年度活动图：面积渐变 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=liixnglinb&bg_color=0d1117&color=c9d1d9&line=5898ff&point=ffffff&area=true&area_color=8250df&hide_border=true" />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=liixnglinb&bg_color=ffffff&color=24292f&line=0969da&point=24292f&area=true&area_color=a5b4fc&hide_border=true" alt="Activity Graph" />
-</picture>
-
-<!-- 成就奖杯墙 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=liixnglinb&theme=github_dark&no-frame=true&no-bg=true&column=7&margin-w=6" />
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=liixnglinb&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=6" alt="Trophies" />
-</picture>
-
 <!-- ═══════════ 精选项目 · pin 卡片网格 ═══════════ -->
 ## 📌 精选项目 / Featured Projects
 
@@ -99,16 +87,16 @@
     <td width="50%" valign="top">
       <a href="https://github.com/liixnglinb/Voyra">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=liixnglinb&repo=Voyra&hide_border=true&bg_color=0d1117&title_color=5898ff&icon_color=8250df&text_color=c9d1d9&show_icons=true" />
-          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=liixnglinb&repo=Voyra&hide_border=true&bg_color=ffffff&title_color=0969da&icon_color=8250df&text_color=24292f&show_icons=true" alt="Voyra" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=liixnglinb&repo=Voyra&hide_border=true&bg_color=0d1117&title_color=5898ff&icon_color=8250df&text_color=c9d1d9&show_icons=true" />
+          <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=liixnglinb&repo=Voyra&hide_border=true&bg_color=ffffff&title_color=0969da&icon_color=8250df&text_color=24292f&show_icons=true" alt="Voyra" />
         </picture>
       </a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/liixnglinb/superstar-checkin">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=liixnglinb&repo=superstar-checkin&hide_border=true&bg_color=0d1117&title_color=5898ff&icon_color=8250df&text_color=c9d1d9&show_icons=true" />
-          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=liixnglinb&repo=superstar-checkin&hide_border=true&bg_color=ffffff&title_color=0969da&icon_color=8250df&text_color=24292f&show_icons=true" alt="superstar-checkin" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=liixnglinb&repo=superstar-checkin&hide_border=true&bg_color=0d1117&title_color=5898ff&icon_color=8250df&text_color=c9d1d9&show_icons=true" />
+          <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=liixnglinb&repo=superstar-checkin&hide_border=true&bg_color=ffffff&title_color=0969da&icon_color=8250df&text_color=24292f&show_icons=true" alt="superstar-checkin" />
         </picture>
       </a>
     </td>
@@ -117,16 +105,16 @@
     <td width="50%" valign="top">
       <a href="https://github.com/liixnglinb/disk-cleanup-assistant">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=liixnglinb&repo=disk-cleanup-assistant&hide_border=true&bg_color=0d1117&title_color=5898ff&icon_color=8250df&text_color=c9d1d9&show_icons=true" />
-          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=liixnglinb&repo=disk-cleanup-assistant&hide_border=true&bg_color=ffffff&title_color=0969da&icon_color=8250df&text_color=24292f&show_icons=true" alt="disk-cleanup-assistant" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=liixnglinb&repo=disk-cleanup-assistant&hide_border=true&bg_color=0d1117&title_color=5898ff&icon_color=8250df&text_color=c9d1d9&show_icons=true" />
+          <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=liixnglinb&repo=disk-cleanup-assistant&hide_border=true&bg_color=ffffff&title_color=0969da&icon_color=8250df&text_color=24292f&show_icons=true" alt="disk-cleanup-assistant" />
         </picture>
       </a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/liixnglinb/mathmodel-skill">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=liixnglinb&repo=mathmodel-skill&hide_border=true&bg_color=0d1117&title_color=5898ff&icon_color=8250df&text_color=c9d1d9&show_icons=true" />
-          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=liixnglinb&repo=mathmodel-skill&hide_border=true&bg_color=ffffff&title_color=0969da&icon_color=8250df&text_color=24292f&show_icons=true" alt="mathmodel-skill" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=liixnglinb&repo=mathmodel-skill&hide_border=true&bg_color=0d1117&title_color=5898ff&icon_color=8250df&text_color=c9d1d9&show_icons=true" />
+          <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=liixnglinb&repo=mathmodel-skill&hide_border=true&bg_color=ffffff&title_color=0969da&icon_color=8250df&text_color=24292f&show_icons=true" alt="mathmodel-skill" />
         </picture>
       </a>
     </td>
