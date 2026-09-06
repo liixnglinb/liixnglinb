@@ -152,8 +152,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liixnglinb/liixnglinb/output/github-contribution-grid-snake-dark.svg">
-  <img alt="GitHub 贡献贪吃蛇动画" src="https://raw.githubusercontent.com/liixnglinb/liixnglinb/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/liixnglinb/liixnglinb@output/github-contribution-grid-snake-dark.svg">
+  <img alt="GitHub 贡献贪吃蛇动画" src="https://cdn.jsdelivr.net/gh/liixnglinb/liixnglinb@output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
