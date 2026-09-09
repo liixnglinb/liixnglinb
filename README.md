@@ -35,6 +35,18 @@
 - 🧹 造了 [**disk-cleanup-assistant**](https://github.com/liixnglinb/disk-cleanup-assistant) —— Windows 磁盘清理助手（Electron + React + FastAPI）
 - 🧮 维护 [**mathmodel-skill**](https://github.com/liixnglinb/mathmodel-skill) —— 国赛 (CUMCM) 数学建模十阶段工作流 Skill
 - 💡 坚信：**好的工具，能让人节省时间做更有意义的事**
+### 🧰 Voyra 工具全家桶 / Voyra Product Suite
+
+| 工具 Tool | 介绍 Intro |
+| --- | --- |
+| [📅 日程中心 Schedule](https://github.com/liixnglinb/Voyra-schedule) | 教务XLS导入课程表 + 日程规划 · Timetable & planner |
+| [🎬 AI 模型对比秀](https://github.com/liixnglinb/Voyra-ai-compare) | 16 个大模型同题生成 SVG 动画一页对比 · One prompt, 16 LLMs |
+| [💡 提示词库 Prompts](https://github.com/liixnglinb/Voyra-prompt-library) | 80 条精选提示词、变量填空一键复制 · Curated AI prompts |
+| [🧩 组件图鉴 UIKit](https://github.com/liixnglinb/Voyra-uikit) | 常见 UI 组件动效手册 · Visual UI component handbook |
+| [🔥 Skill 热榜](https://github.com/liixnglinb/Voyra-skill-hub) | GitHub 优质 AI Skill 星数排行 · Trending AI skills |
+| [🧠 思维导图 MindMap](https://github.com/liixnglinb/Voyra-mindmap) | AI Agent 知识体系交互导图 · Interactive AI Agent mind map |
+| [🍼 宝宝护理 Baby Care](https://github.com/liixnglinb/Voyra-baby-care) | 喂养/排泄/睡眠记录与趋势 · Newborn tracker |
+
 
 
 <!-- 关键词彩色徽章 -->
