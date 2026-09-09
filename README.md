@@ -31,9 +31,9 @@
 > A college student passionate about **Mathematical Modeling** and **Full-Stack Development**, who loves turning ideas into working projects.
 
 - 🔭 正在打磨个人网站 [**Voyra**](https://github.com/liixnglinb/Voyra) —— 我的作品集与数字名片
-- 🤖 开发了 [**superstar-checkin**](https://github.com/liixnglinb/superstar-checkin) —— 学习通自动签到软件
-- 🧹 造了 [**disk-cleanup-assistant**](https://github.com/liixnglinb/disk-cleanup-assistant) —— Windows 磁盘清理助手（Electron + React + FastAPI）
-- 🧮 维护 [**mathmodel-skill**](https://github.com/liixnglinb/mathmodel-skill) —— 国赛 (CUMCM) 数学建模十阶段工作流 Skill
+- 🤖 开发了 [**Superstar-checkin**](https://github.com/liixnglinb/Superstar-checkin) —— 学习通自动签到软件
+- 🧹 造了 [**Disk-cleanup-assistant**](https://github.com/liixnglinb/Disk-cleanup-assistant) —— Windows 磁盘清理助手（Electron + React + FastAPI）
+- 🧮 维护 [**Mathmodel-skill**](https://github.com/liixnglinb/Mathmodel-skill) —— 国赛 (CUMCM) 数学建模十阶段工作流 Skill
 - 💡 坚信：**好的工具，能让人节省时间做更有意义的事**
 ### 🧰 Voyra 工具全家桶 / Voyra Product Suite
 
@@ -71,9 +71,9 @@
 | 时间 | 里程碑 |
 | --- | --- |
 | **2026.06** | 🌱 踏上 GitHub，开始记录学习与创作 |
-| **2026.07** | 🤖 开源 [superstar-checkin](https://github.com/liixnglinb/superstar-checkin)，解放学生党双手 |
-| **2026.08** | 🌐 上线 [Voyra](https://github.com/liixnglinb/Voyra) 个人网站 · 🧮 发布 [mathmodel-skill](https://github.com/liixnglinb/mathmodel-skill) 十阶段建模工作流 |
-| **2026.09** | 🧹 发布 [disk-cleanup-assistant](https://github.com/liixnglinb/disk-cleanup-assistant)，持续折腾新东西 |
+| **2026.07** | 🤖 开源 [Superstar-checkin](https://github.com/liixnglinb/Superstar-checkin)，解放学生党双手 |
+| **2026.08** | 🌐 上线 [Voyra](https://github.com/liixnglinb/Voyra) 个人网站 · 🧮 发布 [Mathmodel-skill](https://github.com/liixnglinb/Mathmodel-skill) 十阶段建模工作流 |
+| **2026.09** | 🧹 发布 [Disk-cleanup-assistant](https://github.com/liixnglinb/Disk-cleanup-assistant)，持续折腾新东西 |
 
 <!-- ═══════════ 技术栈 · skillicons ═══════════ -->
 ## 🧰 技术栈 / Tech Stack
@@ -130,28 +130,28 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/liixnglinb/superstar-checkin">
+      <a href="https://github.com/liixnglinb/Superstar-checkin">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/liixnglinb/superstar-checkin/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" />
-          <img width="100%" src="https://socialify.git.ci/liixnglinb/superstar-checkin/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Light" alt="superstar-checkin" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/liixnglinb/Superstar-checkin/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" />
+          <img width="100%" src="https://socialify.git.ci/liixnglinb/Superstar-checkin/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Light" alt="Superstar-checkin" />
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/liixnglinb/disk-cleanup-assistant">
+      <a href="https://github.com/liixnglinb/Disk-cleanup-assistant">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/liixnglinb/disk-cleanup-assistant/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" />
-          <img width="100%" src="https://socialify.git.ci/liixnglinb/disk-cleanup-assistant/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Light" alt="disk-cleanup-assistant" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/liixnglinb/Disk-cleanup-assistant/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" />
+          <img width="100%" src="https://socialify.git.ci/liixnglinb/Disk-cleanup-assistant/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Light" alt="Disk-cleanup-assistant" />
         </picture>
       </a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/liixnglinb/mathmodel-skill">
+      <a href="https://github.com/liixnglinb/Mathmodel-skill">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/liixnglinb/mathmodel-skill/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" />
-          <img width="100%" src="https://socialify.git.ci/liixnglinb/mathmodel-skill/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Light" alt="mathmodel-skill" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/liixnglinb/Mathmodel-skill/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" />
+          <img width="100%" src="https://socialify.git.ci/liixnglinb/Mathmodel-skill/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Light" alt="Mathmodel-skill" />
         </picture>
       </a>
     </td>
